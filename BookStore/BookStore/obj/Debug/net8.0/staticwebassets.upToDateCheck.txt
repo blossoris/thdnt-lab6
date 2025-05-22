@@ -1,0 +1,5 @@
+wwwroot\uploads\books\other_words_for_home.jpg
+wwwroot\uploads\books\the_metropolist.jpg
+wwwroot\uploads\books\the_tiny_dragon.jpg
+wwwroot\uploads\books\underland.jpg
+wwwroot\uploads\books\To_Kill_a_Mockingbird.jpg
